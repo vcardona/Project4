@@ -11,3 +11,5 @@ En este ejercicio se trabajaron los siguiente temas:
 * UIToolbar
 * UIProgressView
 * Key - Value Observing
+
+![](Project4.gif)
